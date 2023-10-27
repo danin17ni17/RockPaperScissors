@@ -1,0 +1,12 @@
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+D:\myC#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+D:\myC#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+D:\myC#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+D:\myC#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+D:\myC#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+D:\myC#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
